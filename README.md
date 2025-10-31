@@ -3,7 +3,8 @@ A Mamba-Based Multi-Task Approach
 
 # Under Construction
 
-## Paper Link: https://www.scitepress.org/Link.aspx?doi=10.5220%2f0013682500003988
+## Paper Link: 
+https://www.scitepress.org/Link.aspx?doi=10.5220%2f0013682500003988
 
 ## Citation: 
 ```
